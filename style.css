@@ -1,0 +1,13 @@
+img{
+    height:250px;
+    width: 250px;
+}
+#camera{
+    width:360px;
+    height:250px;
+    border: 3px solid magenta;
+
+}
+body{
+    background:linear-gradient(to bottom right, purple , yellow, cyan , white , orange , pink);
+}
